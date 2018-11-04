@@ -1,0 +1,6 @@
+Pixmug
+
+A portal for college students to search and view their pictures by logging in with
+college id and upload photographs of events in an organised manner. Folders will be
+sorted according to dates and places.   
+
